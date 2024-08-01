@@ -1,3 +1,3 @@
-#Expense Tracker
+# Expense Tracker
 
-##How to setup the project
+## How to setup the project
