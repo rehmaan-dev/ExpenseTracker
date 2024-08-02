@@ -4,6 +4,9 @@ using System.Diagnostics;
 
 namespace ExpenseTracker.Controllers
 {
+    /// <summary>
+    /// adding this comment here 
+    /// </summary>
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
